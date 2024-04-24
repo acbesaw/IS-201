@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    color: #FFF;
+    font-family: 'Arial', sans-serif;
+    font-size: larger;
+}
+
+.content {
+    margin: 20px;
+    padding:10px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    display: block;
+
+}
+
+h1 {
+    color: #FFD700;
+}
+
+.navigation a {
+    color: #FFD700;
+    background-color: #333;
+    padding: 10px;
+    margin: 10px 0;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+}
+
